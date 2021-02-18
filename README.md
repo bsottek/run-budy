@@ -1,4 +1,4 @@
-# run-budy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services
@@ -12,3 +12,5 @@ https://bsottek.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Ben Sottek
+
+### ©️2019 Run Buddy, Inc 
